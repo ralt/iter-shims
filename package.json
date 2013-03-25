@@ -1,0 +1,11 @@
+{
+    "name": "iter-shims",
+    "version": "0.1.0",
+    "description": "Shims the iterator methods",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/iter-shims"
+    }
+}
