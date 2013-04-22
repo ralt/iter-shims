@@ -7,5 +7,7 @@ module.exports = {
     every: require('./every'),
     some: require('./some'),
     find: require('./find'),
-    findIndex: require('./findIndex')
+    findIndex: require('./findIndex'),
+    reduce: require('./reduce'),
+    reduceRight: require('./reduceRight')
 };

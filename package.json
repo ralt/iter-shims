@@ -1,6 +1,6 @@
 {
     "name": "iter-shims",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Shims the iterator methods",
     "author": "Florian Margaine <florian@margaine.com>",
     "main": "index.js",
